@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages111111111111
+## Welcome to GitHub Page
 
 You can use the [editor on GitHub](https://github.com/cs45768/love-story/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
